@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Visualizer",
+    "desc": "depicts how various algorithms work in real-time by displaying a visual representation of their execution. ",
+    "image": "Visualizer",
+    "links": {
+      "view": "https://im-siddharthh.github.io/visualizer/",
+      "code": "https://github.com/Im-Siddharthh/visualizer"
+    }
+  },
+  {
+    "name": "Automatic Time Table",
+    "desc": "can be used by the authorities to create an automatic timetable when given raw details such that there are no timing clashes in the period scheduling.",
+    "image": "Time Table",
+    "links": {
+      "view": "https://tulascse.epizy.com/?i=1",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Quiz-Game--API-Project",
+    "desc": "Built using API and JavaScript for users to test their knowledge on a variety of topics.",
+    "image": "Quiz",
+    "links": {
+      "view": "https://im-siddharthh.github.io/Quiz-Game---API-Project/",
+      "code": "https://github.com/Im-Siddharthh/Quiz-Game---API-Project"
+    }
+  },
+  {
+    "name": "Dictionary and Translator",
+    "desc": "Dictionary and translator website using APIs and fetch methods.",
+    "image": "Dictionary",
+    "links": {
+      "view": "https://im-siddharthh.github.io/DictTranslator/",
+      "code": "https://github.com/Im-Siddharthh/DictTranslator"
+    }
+  },
+  {
+    "name": "Travel Advisor",
+    "desc": "Coming soon",
+    "image": "reactprojects",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+
+  {
+    "name": "Coming Soon",
+    "desc": "Coming soon",
+    "image": "reactprojects",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
