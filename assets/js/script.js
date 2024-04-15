@@ -33,7 +33,7 @@ $(document).ready(function () {
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-  strings: ["Software Development", "C++ Programming", "web development"],
+  strings: ["Software Development", "C++ Programming", "Script Writing"],
   loop: true,
   typeSpeed: 50,
   backSpeed: 25,
