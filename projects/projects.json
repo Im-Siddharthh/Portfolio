@@ -1,4 +1,24 @@
+
+  
 [
+  {
+    "name": "Baratie - Food Ordering App",
+    "desc": "Online Food Delivery App, enables users to filter dishes by category, add them to cart, and automatically updates the total amount.",
+    "image": "Baratie",
+    "links": {
+      "view": "https://baratie-orpin.vercel.app/",
+      "code": "https://github.com/Im-Siddharthh/Baratie"
+    }
+  },
+  {
+    "name": "Youtube Clone",
+    "desc": "Developed using React.js and integrated with the YouTube API, this clone allows users to filter videos by tags, search by name",
+    "image": "Youtube",
+    "links": {
+      "view": "https://ytclone-delta-puce.vercel.app/",
+      "code": "https://github.com/Im-Siddharthh/ytclone"
+    }
+  },
   {
     "name": "Visualizer",
     "desc": "depicts how various algorithms work in real-time by displaying a visual representation of their execution. ",
@@ -6,6 +26,15 @@
     "links": {
       "view": "https://im-siddharthh.github.io/visualizer/",
       "code": "https://github.com/Im-Siddharthh/visualizer"
+    }
+  },
+  {
+    "name": "Employee Management App",
+    "desc": "Implemented using the Django framework, enables users to perform CRUD operations on employee details. Through this project, I gained skills in Django's Model-View-Template (MVT) architecture.",
+    "image": "Employee",
+    "links": {
+      "view": "https://im-siddharthh.github.io/Portfolio/",
+      "code": "https://drive.google.com/file/d/10CZ5rRya7lCvWd7VZA3o2fnGIWBq4JCy/view?usp=sharing"
     }
   },
   {
@@ -33,25 +62,6 @@
     "links": {
       "view": "https://im-siddharthh.github.io/DictTranslator/",
       "code": "https://github.com/Im-Siddharthh/DictTranslator"
-    }
-  },
-  {
-    "name": "Travel Advisor",
-    "desc": "Coming soon",
-    "image": "reactprojects",
-    "links": {
-      "view": "#",
-      "code": "#"
-    }
-  },
-
-  {
-    "name": "Coming Soon",
-    "desc": "Coming soon",
-    "image": "reactprojects",
-    "links": {
-      "view": "#",
-      "code": "#"
     }
   }
 ]
