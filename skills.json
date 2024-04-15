@@ -20,8 +20,8 @@
     "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
   },
   {
-    "name": "PHP",
-    "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+    "name": "Phython",
+    "icon": "https://icons8.com/icon/13441/python.png"
   },
   {
     "name": "MySQL",
@@ -40,8 +40,8 @@
     "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
   },
   {
-    "name": "AWS",
-    "icon": "https://img.icons8.com/color/48/amazon-web-services.png"
+    "name": "Django",
+    "icon": "https://icons8.com/icon/mUBILbYvUMq8/django.png"
   },
   {
     "name": "MongoDB",
